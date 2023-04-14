@@ -9,15 +9,5 @@
 					"fecha_nacimiento": "27/09/1976"
 					
 				}
-			],
-			"aboutme": [
-				{
-					"bannerImage": "https://drive.google.com/uc?export=download&id=1n7Zw94hqOWvhXpoumSTDtpM35JTr_rCY",
-					"profilePicture": "https://drive.google.com/uc?export=download&id=1cJWZ-4fWDwXLptzX6E1_rwtHB9kSiLWN",
-					"ubicacion": "La Matanza, Buenos Aires, Argentina",
-					"institution": "Intituto Nacional de Tecnología Industrial",
-					"institutionImage": "https://www.argentina.gob.ar/sites/default/files/logo-inti-arg-blanco_23.png",
-					
-				}
 			]
 		}
