@@ -1,9 +1,8 @@
 {
 
-	"id": 1,
-			"persona": [
+		"persona": [
 				{
-					"id": "1",
+					"id": 1,
 					"nombres": "Hernan Canestraro",
 					"apellido": "Hernan Canestraro",
 					"fecha_nacimiento": "27/09/1976"
