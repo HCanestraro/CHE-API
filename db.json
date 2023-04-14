@@ -19,28 +19,6 @@
 					"institutionImage": "https://www.argentina.gob.ar/sites/default/files/logo-inti-arg-blanco_23.png",
 					
 				}
-			],
-			"educacion": [
-				{
-					"escuela": "Escuela de Educación Media Nº 24",
-					"titulo": "Bachiller Contable",
-					"imagen": "https://www.ort.edu.ar/img/LogoOrtArgWeb2017.jpg",
-					"carrera": "Bachiller",
-					
-				},
-				{
-					"escuela": "Se Programar",
-					"titulo": "Se Programar",
-					"imagen": "https://drive.google.com/uc?export=download&id=1ehlHLwVVJ8CHwIo6jvfbHDo1mWG2dGi5",
-					"carrera": "Desarrollo de Software",
-					
-				},
-				{
-					"escuela": "Argentina Programa, MINDHUB",
-					"titulo": "FullStack FrontEnd Jr.",
-					"imagen": "https://drive.google.com/uc?export=download&id=1Ql6TIVMpAZjmiPChuqYkKxMoBEao55Jm",
-					"carrera": "Programación web",
-					
-				}
 			]
 		}
+}
